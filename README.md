@@ -29,4 +29,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Lesson Learned
 
-I learned how to 
+I was strictly manipulating a JavaScript file to produce these changes. Within JS I learned the following:
+-How to call functions within functions. Building off of this, I learned how global and local variables work in practice. 
+-I worked on If Else statements. I worked with Event Listeners and now have a better understanding of how JS interacts with my html doc as well as manipulates css. This occurs because the JS script is put as the last sheet for the page to load so this means it will overtake any style attributes made in css or otherwise.
+-I learned how to condense within JavaScript, and how to make my code as uncomplicated as possible. 
